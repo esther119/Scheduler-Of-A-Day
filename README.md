@@ -11,7 +11,7 @@ In this project, I insert a list of tasks I need to complete a day, with duratio
 The scheduler is able to 
 - consider a task when its task is fixed: class time 
 - allow multi-tasking: go to class while texting friends
-- order the tasks with given the dependencies: brush my teeth before going to bed 
+- put tasks in order given the dependencies: brush my teeth before going to bed 
 - make priorities based on happiness score: do the task I don't like the most 
 
 Time: Spring 2021
