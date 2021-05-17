@@ -10,7 +10,7 @@ This is a project that I create in the Algorithms and Data Structure class. The 
 In this project, I insert a list of tasks I need to complete a day, with duration, dependencies of tasks, and happiness scores. 
 The scheduler is able to 
 - consider a task when its task is fixed: class time 
-- allow multi-tasking: go to class while texting friends
+- allow multi-tasking: be in class while texting friends
 - put tasks in order given the dependencies: brush my teeth before going to bed 
 - make priorities based on happiness score: do the task I don't like the most 
 
